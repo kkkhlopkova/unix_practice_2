@@ -7,6 +7,7 @@ TEAM_NAME = "снежинки"
 MOTTO = "падай"
 
 insights = "мы справимся, точноedgtfegu"
+asa ="asdfghj"
 
 
 
