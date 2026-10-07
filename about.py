@@ -6,7 +6,7 @@
 TEAM_NAME = "снежинки"
 MOTTO = "падай"
 
-insights = "мы справимся, точно"
+insights = "мы справимся, точноedgtfegu"
 
 
 
